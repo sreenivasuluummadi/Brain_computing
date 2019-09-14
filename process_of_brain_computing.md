@@ -1,16 +1,16 @@
-<h1>Brain Activity</h1><br>
+<h6>Brain Activity</h6><br>
 |<br>
 v<br>
-<h2>Record Signals</h2><br>
+<h5>Record Signals</h5><br>
 |<br>
 v<br>
-<h3>Connectivity Matrix</h3><br>
+<h4>Connectivity Matrix</h4><br>
 |<br>
 v<br>
-<h4>Graph</h4><br>
+<h3>Graph</h3><br>
 |<br>
 v<br>
-<h5>Network Properties</h5><br>
+<h2>Network Properties</h2><br>
 |<br>
 v<br>
-<h6>Neuro Marking</h6><br>
+<h1>Neuro Marking</h1><br>
